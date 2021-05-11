@@ -125,6 +125,9 @@
     <targetRole xmi:id="_m1TMNrGDEeuELJ2ce4GWqw" aggregationKind="NONE" name="tipo_evaluacion" navigable="true">
       <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7KMlbGDEeuELJ2ce4GWqw"/>
       <visualProperties xmi:id="_nwV4ILGDEeuELJ2ce4GWqw" position="-149.0,2.0"/>
+      <stereotypes xmi:id="_jQFGMLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7KzoLGDEeuELJ2ce4GWqw"/>
+      </stereotypes>
       <visibility xmi:id="_m1TMN7GDEeuELJ2ce4GWqw" label="-"/>
       <cardinality xmi:id="_m1TMOLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
     </targetRole>
@@ -200,6 +203,9 @@
     <targetRole xmi:id="_m-mSJrGDEeuELJ2ce4GWqw" aggregationKind="NONE" name="alumno2" navigable="true">
       <modelElement href="Practica3EMDiagramaDeClases.uml#_Y6_0g7GDEeuELJ2ce4GWqw"/>
       <visualProperties xmi:id="_nwY7cbGDEeuELJ2ce4GWqw" position="-95.99999999999977,-70.00000000000021"/>
+      <stereotypes xmi:id="_jQHicLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7AbkLGDEeuELJ2ce4GWqw"/>
+      </stereotypes>
       <visibility xmi:id="_m_mXsLGDEeuELJ2ce4GWqw" label="-"/>
       <cardinality xmi:id="_m_lwprGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
     </targetRole>
@@ -240,6 +246,9 @@
     <targetRole xmi:id="_m_qpJrGDEeuELJ2ce4GWqw" aggregationKind="NONE" name="tutor" navigable="true">
       <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7AbkbGDEeuELJ2ce4GWqw"/>
       <visualProperties xmi:id="_nwbXsLGDEeuELJ2ce4GWqw" position="-67.0,-70.0"/>
+      <stereotypes xmi:id="_jQIJgLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7Abk7GDEeuELJ2ce4GWqw"/>
+      </stereotypes>
       <visibility xmi:id="_m_qpJ7GDEeuELJ2ce4GWqw" label="-"/>
       <cardinality xmi:id="_m_qpKLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
     </targetRole>
@@ -261,6 +270,9 @@
     <targetRole xmi:id="_nEqd4rGDEeuELJ2ce4GWqw" aggregationKind="NONE" name="grupo_clase" navigable="true">
       <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7Bps7GDEeuELJ2ce4GWqw"/>
       <visualProperties xmi:id="_nwdM4bGDEeuELJ2ce4GWqw" position="-152.0,-66.0"/>
+      <stereotypes xmi:id="_jQIwkLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7CQwLGDEeuELJ2ce4GWqw"/>
+      </stereotypes>
       <visibility xmi:id="_nExLk7GDEeuELJ2ce4GWqw" label="-"/>
       <cardinality xmi:id="_nExLkrGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
     </targetRole>
@@ -291,6 +303,9 @@
     <targetRole xmi:id="_nMQ6srGDEeuELJ2ce4GWqw" aggregationKind="NONE" name="grupo_clase1" navigable="true">
       <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7EF9bGDEeuELJ2ce4GWqw"/>
       <visualProperties xmi:id="_nwfpILGDEeuELJ2ce4GWqw" position="-123.0,-119.0"/>
+      <stereotypes xmi:id="_jQJXoLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7EtALGDEeuELJ2ce4GWqw"/>
+      </stereotypes>
       <visibility xmi:id="_nNUqprGDEeuELJ2ce4GWqw" label="-"/>
       <cardinality xmi:id="_nNUqpbGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
     </targetRole>
@@ -313,6 +328,9 @@
     <targetRole xmi:id="_nMQ6trGDEeuELJ2ce4GWqw" aggregationKind="NONE" name="grupo_clase2" navigable="true">
       <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7EtAbGDEeuELJ2ce4GWqw"/>
       <visualProperties xmi:id="_nwheUbGDEeuELJ2ce4GWqw" position="2.0,-122.0"/>
+      <stereotypes xmi:id="_jQJXobJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7EtA7GDEeuELJ2ce4GWqw"/>
+      </stereotypes>
       <visibility xmi:id="_nNVRs7GDEeuELJ2ce4GWqw" label="-"/>
       <cardinality xmi:id="_nNVRsrGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
     </targetRole>
@@ -752,11 +770,11 @@
       <cardinality xmi:id="_789bGbGGEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
     </targetRole>
   </edges>
-  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_QQ1nILGLEeuELJ2ce4GWqw" sourceAnchor="330.0,220.0" targetAnchor="456.0,836.0" target="_nNY8ELGDEeuELJ2ce4GWqw" source="_nUj7ELGDEeuELJ2ce4GWqw">
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_QQ1nILGLEeuELJ2ce4GWqw" sourceAnchor="473.0,219.0" targetAnchor="642.0,835.0" target="_nNY8ELGDEeuELJ2ce4GWqw" source="_nUj7ELGDEeuELJ2ce4GWqw">
     <modelElement href="Practica3EMDiagramaDeClases.uml#_QQvggLGLEeuELJ2ce4GWqw"/>
     <visualProperties xmi:id="_QQ1nIbGLEeuELJ2ce4GWqw"/>
-    <bendpoints xmi:id="_QZsoN7GLEeuELJ2ce4GWqw" sourceY="181" targetX="2341" targetY="611"/>
-    <bendpoints xmi:id="_QZtPQLGLEeuELJ2ce4GWqw" sourceX="-2341" sourceY="181" targetY="611"/>
+    <bendpoints xmi:id="_QZsoN7GLEeuELJ2ce4GWqw" sourceX="2" sourceY="204" targetX="2486" targetY="634"/>
+    <bendpoints xmi:id="_QZtPQLGLEeuELJ2ce4GWqw" sourceX="-2340" sourceY="214" targetY="644"/>
     <nameVisual xmi:id="_QQ1nIrGLEeuELJ2ce4GWqw" text="TutoriaTieneProfesor">
       <visualProperties xmi:id="_QZz88LGLEeuELJ2ce4GWqw" position="-110.59090909090901,2.0"/>
     </nameVisual>
@@ -1593,9 +1611,9 @@
     </attributes>
     <attributes xmi:id="_m_qpNbGDEeuELJ2ce4GWqw" defaultValue="null" name="alumno2">
       <modelElement href="Practica3EMDiagramaDeClases.uml#_Y6_0g7GDEeuELJ2ce4GWqw"/>
-      <stereotypes xmi:id="_m_qpNrGDEeuELJ2ce4GWqw" name="LegacyStyledElement">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7AbkLGDEeuELJ2ce4GWqw"/>
-      </stereotypes>
+      <stereotypes xmi:id="_jRzkgLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_jR0yoLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_jSSssLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
       <visibility xmi:id="_m_qpN7GDEeuELJ2ce4GWqw" label="-"/>
       <cardinality xmi:id="_m_qpOLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
       <type xmi:id="_m_qpObGDEeuELJ2ce4GWqw" name="Alumno">
@@ -1604,9 +1622,9 @@
     </attributes>
     <attributes xmi:id="_m_qpOrGDEeuELJ2ce4GWqw" defaultValue="null" name="tutor">
       <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7AbkbGDEeuELJ2ce4GWqw"/>
-      <stereotypes xmi:id="_m_qpO7GDEeuELJ2ce4GWqw" name="LegacyStyledElement">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7Abk7GDEeuELJ2ce4GWqw"/>
-      </stereotypes>
+      <stereotypes xmi:id="_jR2n0LJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_jR318LJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_jST60LJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
       <visibility xmi:id="_m_qpPLGDEeuELJ2ce4GWqw" label="-"/>
       <cardinality xmi:id="_m_qpPbGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
       <type xmi:id="_m_qpPrGDEeuELJ2ce4GWqw" name="Profesor">
@@ -2049,9 +2067,9 @@
     </attributes>
     <attributes xmi:id="_nNY8JrGDEeuELJ2ce4GWqw" defaultValue="null" name="grupo_clase1">
       <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7EF9bGDEeuELJ2ce4GWqw"/>
-      <stereotypes xmi:id="_nNY8J7GDEeuELJ2ce4GWqw" name="LegacyStyledElement">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7EtALGDEeuELJ2ce4GWqw"/>
-      </stereotypes>
+      <stereotypes xmi:id="_jR65QLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_jR8HYLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_jSYMQLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
       <visibility xmi:id="_nNY8KLGDEeuELJ2ce4GWqw" label="-"/>
       <cardinality xmi:id="_nNY8KbGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
       <type xmi:id="_nNY8KrGDEeuELJ2ce4GWqw" name="GrupoClase">
@@ -2060,9 +2078,9 @@
     </attributes>
     <attributes xmi:id="_nNY8K7GDEeuELJ2ce4GWqw" defaultValue="null" name="grupo_clase2">
       <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7EtAbGDEeuELJ2ce4GWqw"/>
-      <stereotypes xmi:id="_nNY8LLGDEeuELJ2ce4GWqw" name="LegacyStyledElement">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7EtA7GDEeuELJ2ce4GWqw"/>
-      </stereotypes>
+      <stereotypes xmi:id="_jR8ucLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_jR98kLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_jSYzULJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
       <visibility xmi:id="_nNY8LbGDEeuELJ2ce4GWqw" label="-"/>
       <cardinality xmi:id="_nNY8LrGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
       <type xmi:id="_nNY8L7GDEeuELJ2ce4GWqw" name="GrupoClase">
@@ -2585,9 +2603,9 @@
     </attributes>
     <attributes xmi:id="_m1TzdbGDEeuELJ2ce4GWqw" name="tipo_evaluacion">
       <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7KMlbGDEeuELJ2ce4GWqw"/>
-      <stereotypes xmi:id="_m1TzdrGDEeuELJ2ce4GWqw" name="LegacyStyledElement">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7KzoLGDEeuELJ2ce4GWqw"/>
-      </stereotypes>
+      <stereotypes xmi:id="_jRsPwLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_jRusALJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_jScdsLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
       <visibility xmi:id="_m1Tzd7GDEeuELJ2ce4GWqw" label="-"/>
       <cardinality xmi:id="_m1TzeLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
       <type xmi:id="_m1TzebGDEeuELJ2ce4GWqw" name="TipoEvaluacion">
@@ -3500,154 +3518,6 @@
       </parameters>
     </operations>
   </nodes>
-  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_m66sALGDEeuELJ2ce4GWqw" comments="_m5d6gLGDEeuELJ2ce4GWqw" targetConnectionVisual="_m59pwLGDEeuELJ2ce4GWqw" name="GrupoClase" associationsIn="_m5_e8LGDEeuELJ2ce4GWqw _nBgcMLGDEeuELJ2ce4GWqw _nKO6YLGDEeuELJ2ce4GWqw _nK7d8LGDEeuELJ2ce4GWqw _786XwLGGEeuELJ2ce4GWqw _788M8LGGEeuELJ2ce4GWqw _789bELGGEeuELJ2ce4GWqw">
-    <modelElement href="Practica3EMDiagramaDeClases.uml#_YjxAQLGDEeuELJ2ce4GWqw"/>
-    <visualProperties xmi:id="_m66sAbGDEeuELJ2ce4GWqw" position="410.0,2009.0" size="-1.0,-1.0"/>
-    <visibility xmi:id="_m66sArGDEeuELJ2ce4GWqw" label="+"/>
-    <attributes xmi:id="_m66sA7GDEeuELJ2ce4GWqw" name="cod_grupo_clase">
-      <modelElement href="Practica3EMDiagramaDeClases.uml#_Y6-mYLGDEeuELJ2ce4GWqw"/>
-      <stereotypes xmi:id="_m66sBLGDEeuELJ2ce4GWqw" name="LegacyStyledElement">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y6_NcLGDEeuELJ2ce4GWqw"/>
-      </stereotypes>
-      <visibility xmi:id="_m66sBbGDEeuELJ2ce4GWqw" label="-"/>
-      <cardinality xmi:id="_m66sBrGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-      <type xmi:id="_m66sB7GDEeuELJ2ce4GWqw" name="String">
-        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-      </type>
-    </attributes>
-    <attributes xmi:id="_786-0LGGEeuELJ2ce4GWqw" name="curso">
-      <modelElement href="Practica3EMDiagramaDeClases.uml#_784ikbGGEeuELJ2ce4GWqw"/>
-      <visibility xmi:id="_786-0bGGEeuELJ2ce4GWqw" label="+"/>
-      <cardinality xmi:id="_786-0rGGEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-      <type xmi:id="_786-07GGEeuELJ2ce4GWqw" name="Curso">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_YjX-sLGDEeuELJ2ce4GWqw"/>
-      </type>
-    </attributes>
-    <operations xmi:id="_m66sCLGDEeuELJ2ce4GWqw" comments="_m6AtELGDEeuELJ2ce4GWqw" targetConnectionVisual="_m6AtEbGDEeuELJ2ce4GWqw" name="GrupoClase">
-      <modelElement href="Practica3EMDiagramaDeClases.uml#_YjxAQbGDEeuELJ2ce4GWqw"/>
-      <keywords xmi:id="_m66sCbGDEeuELJ2ce4GWqw" keyword="create"/>
-      <visibility xmi:id="_m66sCrGDEeuELJ2ce4GWqw" label="+"/>
-      <cardinality xmi:id="_m66sC7GDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-      <outParameters xmi:id="_m66sDLGDEeuELJ2ce4GWqw">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_YjxnUrGDEeuELJ2ce4GWqw"/>
-        <type xmi:id="_m66sDbGDEeuELJ2ce4GWqw" name="GrupoClase">
-          <modelElement href="Practica3EMDiagramaDeClases.uml#_YjxAQLGDEeuELJ2ce4GWqw"/>
-        </type>
-      </outParameters>
-      <parameters xmi:id="_m66sDrGDEeuELJ2ce4GWqw" name="grupo">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_YjxAQrGDEeuELJ2ce4GWqw"/>
-        <cardinality xmi:id="_m66sD7GDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-        <type xmi:id="_m66sELGDEeuELJ2ce4GWqw" name="String">
-          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-        </type>
-      </parameters>
-    </operations>
-    <operations xmi:id="_m66sEbGDEeuELJ2ce4GWqw" comments="_m6BUILGDEeuELJ2ce4GWqw" targetConnectionVisual="_m6BUIbGDEeuELJ2ce4GWqw" name="noEstaDadoDeAlta">
-      <modelElement href="Practica3EMDiagramaDeClases.uml#_YjxnU7GDEeuELJ2ce4GWqw"/>
-      <visibility xmi:id="_m66sErGDEeuELJ2ce4GWqw" label="+"/>
-      <cardinality xmi:id="_m66sE7GDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-      <outParameters xmi:id="_m66sFLGDEeuELJ2ce4GWqw">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_YjxnVLGDEeuELJ2ce4GWqw"/>
-        <type xmi:id="_m66sFbGDEeuELJ2ce4GWqw" name="boolean">
-          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
-        </type>
-      </outParameters>
-    </operations>
-    <operations xmi:id="_m66sFrGDEeuELJ2ce4GWqw" comments="_m6B7MLGDEeuELJ2ce4GWqw" targetConnectionVisual="_m6B7MbGDEeuELJ2ce4GWqw" name="altaGrupoClase">
-      <modelElement href="Practica3EMDiagramaDeClases.uml#_YjyOYLGDEeuELJ2ce4GWqw"/>
-      <visibility xmi:id="_m66sF7GDEeuELJ2ce4GWqw" label="+"/>
-      <cardinality xmi:id="_m66sGLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-    </operations>
-    <operations xmi:id="_m66sGbGDEeuELJ2ce4GWqw" comments="_m6CiQLGDEeuELJ2ce4GWqw" targetConnectionVisual="_m6vs4LGDEeuELJ2ce4GWqw" name="noEstaVacio">
-      <modelElement href="Practica3EMDiagramaDeClases.uml#_YjyOYbGDEeuELJ2ce4GWqw"/>
-      <visibility xmi:id="_m66sGrGDEeuELJ2ce4GWqw" label="-"/>
-      <cardinality xmi:id="_m66sG7GDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-      <outParameters xmi:id="_m66sHLGDEeuELJ2ce4GWqw">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_YjyOY7GDEeuELJ2ce4GWqw"/>
-        <type xmi:id="_m66sHbGDEeuELJ2ce4GWqw" name="boolean">
-          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
-        </type>
-      </outParameters>
-      <parameters xmi:id="_m66sHrGDEeuELJ2ce4GWqw" name="cadena">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_YjyOYrGDEeuELJ2ce4GWqw"/>
-        <cardinality xmi:id="_m66sH7GDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-        <type xmi:id="_m66sILGDEeuELJ2ce4GWqw" name="String">
-          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-        </type>
-      </parameters>
-    </operations>
-    <operations xmi:id="_m66sIbGDEeuELJ2ce4GWqw" comments="_m6vs4bGDEeuELJ2ce4GWqw" targetConnectionVisual="_m61McLGDEeuELJ2ce4GWqw" name="getCodGrupoClase">
-      <modelElement href="Practica3EMDiagramaDeClases.uml#_YjyOZLGDEeuELJ2ce4GWqw"/>
-      <visibility xmi:id="_m66sIrGDEeuELJ2ce4GWqw" label="+"/>
-      <cardinality xmi:id="_m66sI7GDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-      <outParameters xmi:id="_m66sJLGDEeuELJ2ce4GWqw">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_YjyOZbGDEeuELJ2ce4GWqw"/>
-        <type xmi:id="_m66sJbGDEeuELJ2ce4GWqw" name="String">
-          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-        </type>
-      </outParameters>
-    </operations>
-    <operations xmi:id="_m66sJrGDEeuELJ2ce4GWqw" comments="_m61zgLGDEeuELJ2ce4GWqw" targetConnectionVisual="_m61zgbGDEeuELJ2ce4GWqw" name="estaDadoDeAlta">
-      <modelElement href="Practica3EMDiagramaDeClases.uml#_Y03-YLGDEeuELJ2ce4GWqw"/>
-      <visibility xmi:id="_m66sJ7GDEeuELJ2ce4GWqw" label="+"/>
-      <cardinality xmi:id="_m66sKLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-      <outParameters xmi:id="_m66sKbGDEeuELJ2ce4GWqw">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y04lcbGDEeuELJ2ce4GWqw"/>
-        <type xmi:id="_m66sKrGDEeuELJ2ce4GWqw" name="boolean">
-          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
-        </type>
-      </outParameters>
-      <parameters xmi:id="_m66sK7GDEeuELJ2ce4GWqw" name="dataAccessObject">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y04lcLGDEeuELJ2ce4GWqw"/>
-        <cardinality xmi:id="_m66sLLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-        <type xmi:id="_m66sLbGDEeuELJ2ce4GWqw" name="DataAccessObject">
-          <modelElement href="Practica3EMDiagramaDeClases.uml#_Ye35MLGDEeuELJ2ce4GWqw"/>
-        </type>
-      </parameters>
-    </operations>
-    <operations xmi:id="_m66sLrGDEeuELJ2ce4GWqw" comments="_m62akLGDEeuELJ2ce4GWqw" targetConnectionVisual="_m62akbGDEeuELJ2ce4GWqw" name="noEstaDadoDeAlta">
-      <modelElement href="Practica3EMDiagramaDeClases.uml#_Y04lcrGDEeuELJ2ce4GWqw"/>
-      <visibility xmi:id="_m66sL7GDEeuELJ2ce4GWqw" label="+"/>
-      <cardinality xmi:id="_m66sMLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-      <outParameters xmi:id="_m66sMbGDEeuELJ2ce4GWqw">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y04ldLGDEeuELJ2ce4GWqw"/>
-        <type xmi:id="_m66sMrGDEeuELJ2ce4GWqw" name="boolean">
-          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
-        </type>
-      </outParameters>
-      <parameters xmi:id="_m66sM7GDEeuELJ2ce4GWqw" name="dataAccessObject">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y04lc7GDEeuELJ2ce4GWqw"/>
-        <cardinality xmi:id="_m66sNLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-        <type xmi:id="_m66sNbGDEeuELJ2ce4GWqw" name="DataAccessObject">
-          <modelElement href="Practica3EMDiagramaDeClases.uml#_Ye35MLGDEeuELJ2ce4GWqw"/>
-        </type>
-      </parameters>
-    </operations>
-    <operations xmi:id="_m66sNrGDEeuELJ2ce4GWqw" comments="_m63BoLGDEeuELJ2ce4GWqw" targetConnectionVisual="_m63BobGDEeuELJ2ce4GWqw" name="altaGrupoClase">
-      <modelElement href="Practica3EMDiagramaDeClases.uml#_Y04ldbGDEeuELJ2ce4GWqw"/>
-      <visibility xmi:id="_m66sN7GDEeuELJ2ce4GWqw" label="+"/>
-      <cardinality xmi:id="_m66sOLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-      <parameters xmi:id="_m66sObGDEeuELJ2ce4GWqw" name="dataAccessObject">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y04ldrGDEeuELJ2ce4GWqw"/>
-        <cardinality xmi:id="_m66sOrGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-        <type xmi:id="_m66sO7GDEeuELJ2ce4GWqw" name="DataAccessObject">
-          <modelElement href="Practica3EMDiagramaDeClases.uml#_Ye35MLGDEeuELJ2ce4GWqw"/>
-        </type>
-      </parameters>
-    </operations>
-    <operations xmi:id="_m66sPLGDEeuELJ2ce4GWqw" comments="_m63BorGDEeuELJ2ce4GWqw" targetConnectionVisual="_m63osLGDEeuELJ2ce4GWqw" name="validarGrupoClase">
-      <modelElement href="Practica3EMDiagramaDeClases.uml#_Y05MgLGDEeuELJ2ce4GWqw"/>
-      <visibility xmi:id="_m66sPbGDEeuELJ2ce4GWqw" label="+"/>
-      <cardinality xmi:id="_m66sPrGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-      <parameters xmi:id="_m66sP7GDEeuELJ2ce4GWqw" name="dataAccessObject">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y05MgbGDEeuELJ2ce4GWqw"/>
-        <cardinality xmi:id="_m66sQLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
-        <type xmi:id="_m66sQbGDEeuELJ2ce4GWqw" name="DataAccessObject">
-          <modelElement href="Practica3EMDiagramaDeClases.uml#_Ye35MLGDEeuELJ2ce4GWqw"/>
-        </type>
-      </parameters>
-    </operations>
-  </nodes>
   <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_nEzAwLGDEeuELJ2ce4GWqw" comments="_nDVBILGDEeuELJ2ce4GWqw" targetConnectionVisual="_nEp20LGDEeuELJ2ce4GWqw" name="Matricula" associationsIn="_lRA5gLGEEeuELJ2ce4GWqw _oiwsMLGGEeuELJ2ce4GWqw" associationsOut="_nBgcMLGDEeuELJ2ce4GWqw">
     <modelElement href="Practica3EMDiagramaDeClases.uml#_Yj6KMLGDEeuELJ2ce4GWqw"/>
     <visualProperties xmi:id="_nEzAwbGDEeuELJ2ce4GWqw" position="402.0,1029.0" size="-1.0,-1.0"/>
@@ -3676,9 +3546,9 @@
     </attributes>
     <attributes xmi:id="_nEzAzbGDEeuELJ2ce4GWqw" name="grupo_clase">
       <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7Bps7GDEeuELJ2ce4GWqw"/>
-      <stereotypes xmi:id="_nEzAzrGDEeuELJ2ce4GWqw" name="LegacyStyledElement">
-        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y7CQwLGDEeuELJ2ce4GWqw"/>
-      </stereotypes>
+      <stereotypes xmi:id="_jR5EELJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_jR5rILJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
+      <stereotypes xmi:id="_jSh9QLJ5Eeuy-a8GcqHU0Q" name="LegacyStyledElement"/>
       <visibility xmi:id="_nEzAz7GDEeuELJ2ce4GWqw" label="-"/>
       <cardinality xmi:id="_nEzA0LGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
       <type xmi:id="_nEzA0bGDEeuELJ2ce4GWqw" name="GrupoClase">
@@ -4444,6 +4314,154 @@
         <modelElement href="Practica3EMDiagramaDeClases.uml#_Y1BvYbGDEeuELJ2ce4GWqw"/>
         <cardinality xmi:id="_nUj7NrGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
         <type xmi:id="_nUj7N7GDEeuELJ2ce4GWqw" name="DataAccessObject">
+          <modelElement href="Practica3EMDiagramaDeClases.uml#_Ye35MLGDEeuELJ2ce4GWqw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_m66sALGDEeuELJ2ce4GWqw" comments="_m5d6gLGDEeuELJ2ce4GWqw" targetConnectionVisual="_m59pwLGDEeuELJ2ce4GWqw" name="GrupoClase" associationsIn="_m5_e8LGDEeuELJ2ce4GWqw _nBgcMLGDEeuELJ2ce4GWqw _nKO6YLGDEeuELJ2ce4GWqw _nK7d8LGDEeuELJ2ce4GWqw _786XwLGGEeuELJ2ce4GWqw _788M8LGGEeuELJ2ce4GWqw _789bELGGEeuELJ2ce4GWqw">
+    <modelElement href="Practica3EMDiagramaDeClases.uml#_YjxAQLGDEeuELJ2ce4GWqw"/>
+    <visualProperties xmi:id="_m66sAbGDEeuELJ2ce4GWqw" position="402.0,2075.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_m66sArGDEeuELJ2ce4GWqw" label="+"/>
+    <attributes xmi:id="_m66sA7GDEeuELJ2ce4GWqw" name="cod_grupo_clase">
+      <modelElement href="Practica3EMDiagramaDeClases.uml#_Y6-mYLGDEeuELJ2ce4GWqw"/>
+      <stereotypes xmi:id="_m66sBLGDEeuELJ2ce4GWqw" name="LegacyStyledElement">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y6_NcLGDEeuELJ2ce4GWqw"/>
+      </stereotypes>
+      <visibility xmi:id="_m66sBbGDEeuELJ2ce4GWqw" label="-"/>
+      <cardinality xmi:id="_m66sBrGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+      <type xmi:id="_m66sB7GDEeuELJ2ce4GWqw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_786-0LGGEeuELJ2ce4GWqw" name="curso">
+      <modelElement href="Practica3EMDiagramaDeClases.uml#_784ikbGGEeuELJ2ce4GWqw"/>
+      <visibility xmi:id="_786-0bGGEeuELJ2ce4GWqw" label="+"/>
+      <cardinality xmi:id="_786-0rGGEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+      <type xmi:id="_786-07GGEeuELJ2ce4GWqw" name="Curso">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_YjX-sLGDEeuELJ2ce4GWqw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_m66sCLGDEeuELJ2ce4GWqw" comments="_m6AtELGDEeuELJ2ce4GWqw" targetConnectionVisual="_m6AtEbGDEeuELJ2ce4GWqw" name="GrupoClase">
+      <modelElement href="Practica3EMDiagramaDeClases.uml#_YjxAQbGDEeuELJ2ce4GWqw"/>
+      <keywords xmi:id="_m66sCbGDEeuELJ2ce4GWqw" keyword="create"/>
+      <visibility xmi:id="_m66sCrGDEeuELJ2ce4GWqw" label="+"/>
+      <cardinality xmi:id="_m66sC7GDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_m66sDLGDEeuELJ2ce4GWqw">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_YjxnUrGDEeuELJ2ce4GWqw"/>
+        <type xmi:id="_m66sDbGDEeuELJ2ce4GWqw" name="GrupoClase">
+          <modelElement href="Practica3EMDiagramaDeClases.uml#_YjxAQLGDEeuELJ2ce4GWqw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_m66sDrGDEeuELJ2ce4GWqw" name="grupo">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_YjxAQrGDEeuELJ2ce4GWqw"/>
+        <cardinality xmi:id="_m66sD7GDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+        <type xmi:id="_m66sELGDEeuELJ2ce4GWqw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_m66sEbGDEeuELJ2ce4GWqw" comments="_m6BUILGDEeuELJ2ce4GWqw" targetConnectionVisual="_m6BUIbGDEeuELJ2ce4GWqw" name="noEstaDadoDeAlta">
+      <modelElement href="Practica3EMDiagramaDeClases.uml#_YjxnU7GDEeuELJ2ce4GWqw"/>
+      <visibility xmi:id="_m66sErGDEeuELJ2ce4GWqw" label="+"/>
+      <cardinality xmi:id="_m66sE7GDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_m66sFLGDEeuELJ2ce4GWqw">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_YjxnVLGDEeuELJ2ce4GWqw"/>
+        <type xmi:id="_m66sFbGDEeuELJ2ce4GWqw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_m66sFrGDEeuELJ2ce4GWqw" comments="_m6B7MLGDEeuELJ2ce4GWqw" targetConnectionVisual="_m6B7MbGDEeuELJ2ce4GWqw" name="altaGrupoClase">
+      <modelElement href="Practica3EMDiagramaDeClases.uml#_YjyOYLGDEeuELJ2ce4GWqw"/>
+      <visibility xmi:id="_m66sF7GDEeuELJ2ce4GWqw" label="+"/>
+      <cardinality xmi:id="_m66sGLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_m66sGbGDEeuELJ2ce4GWqw" comments="_m6CiQLGDEeuELJ2ce4GWqw" targetConnectionVisual="_m6vs4LGDEeuELJ2ce4GWqw" name="noEstaVacio">
+      <modelElement href="Practica3EMDiagramaDeClases.uml#_YjyOYbGDEeuELJ2ce4GWqw"/>
+      <visibility xmi:id="_m66sGrGDEeuELJ2ce4GWqw" label="-"/>
+      <cardinality xmi:id="_m66sG7GDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_m66sHLGDEeuELJ2ce4GWqw">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_YjyOY7GDEeuELJ2ce4GWqw"/>
+        <type xmi:id="_m66sHbGDEeuELJ2ce4GWqw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_m66sHrGDEeuELJ2ce4GWqw" name="cadena">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_YjyOYrGDEeuELJ2ce4GWqw"/>
+        <cardinality xmi:id="_m66sH7GDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+        <type xmi:id="_m66sILGDEeuELJ2ce4GWqw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_m66sIbGDEeuELJ2ce4GWqw" comments="_m6vs4bGDEeuELJ2ce4GWqw" targetConnectionVisual="_m61McLGDEeuELJ2ce4GWqw" name="getCodGrupoClase">
+      <modelElement href="Practica3EMDiagramaDeClases.uml#_YjyOZLGDEeuELJ2ce4GWqw"/>
+      <visibility xmi:id="_m66sIrGDEeuELJ2ce4GWqw" label="+"/>
+      <cardinality xmi:id="_m66sI7GDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_m66sJLGDEeuELJ2ce4GWqw">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_YjyOZbGDEeuELJ2ce4GWqw"/>
+        <type xmi:id="_m66sJbGDEeuELJ2ce4GWqw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_m66sJrGDEeuELJ2ce4GWqw" comments="_m61zgLGDEeuELJ2ce4GWqw" targetConnectionVisual="_m61zgbGDEeuELJ2ce4GWqw" name="estaDadoDeAlta">
+      <modelElement href="Practica3EMDiagramaDeClases.uml#_Y03-YLGDEeuELJ2ce4GWqw"/>
+      <visibility xmi:id="_m66sJ7GDEeuELJ2ce4GWqw" label="+"/>
+      <cardinality xmi:id="_m66sKLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_m66sKbGDEeuELJ2ce4GWqw">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y04lcbGDEeuELJ2ce4GWqw"/>
+        <type xmi:id="_m66sKrGDEeuELJ2ce4GWqw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_m66sK7GDEeuELJ2ce4GWqw" name="dataAccessObject">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y04lcLGDEeuELJ2ce4GWqw"/>
+        <cardinality xmi:id="_m66sLLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+        <type xmi:id="_m66sLbGDEeuELJ2ce4GWqw" name="DataAccessObject">
+          <modelElement href="Practica3EMDiagramaDeClases.uml#_Ye35MLGDEeuELJ2ce4GWqw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_m66sLrGDEeuELJ2ce4GWqw" comments="_m62akLGDEeuELJ2ce4GWqw" targetConnectionVisual="_m62akbGDEeuELJ2ce4GWqw" name="noEstaDadoDeAlta">
+      <modelElement href="Practica3EMDiagramaDeClases.uml#_Y04lcrGDEeuELJ2ce4GWqw"/>
+      <visibility xmi:id="_m66sL7GDEeuELJ2ce4GWqw" label="+"/>
+      <cardinality xmi:id="_m66sMLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_m66sMbGDEeuELJ2ce4GWqw">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y04ldLGDEeuELJ2ce4GWqw"/>
+        <type xmi:id="_m66sMrGDEeuELJ2ce4GWqw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_m66sM7GDEeuELJ2ce4GWqw" name="dataAccessObject">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y04lc7GDEeuELJ2ce4GWqw"/>
+        <cardinality xmi:id="_m66sNLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+        <type xmi:id="_m66sNbGDEeuELJ2ce4GWqw" name="DataAccessObject">
+          <modelElement href="Practica3EMDiagramaDeClases.uml#_Ye35MLGDEeuELJ2ce4GWqw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_m66sNrGDEeuELJ2ce4GWqw" comments="_m63BoLGDEeuELJ2ce4GWqw" targetConnectionVisual="_m63BobGDEeuELJ2ce4GWqw" name="altaGrupoClase">
+      <modelElement href="Practica3EMDiagramaDeClases.uml#_Y04ldbGDEeuELJ2ce4GWqw"/>
+      <visibility xmi:id="_m66sN7GDEeuELJ2ce4GWqw" label="+"/>
+      <cardinality xmi:id="_m66sOLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_m66sObGDEeuELJ2ce4GWqw" name="dataAccessObject">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y04ldrGDEeuELJ2ce4GWqw"/>
+        <cardinality xmi:id="_m66sOrGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+        <type xmi:id="_m66sO7GDEeuELJ2ce4GWqw" name="DataAccessObject">
+          <modelElement href="Practica3EMDiagramaDeClases.uml#_Ye35MLGDEeuELJ2ce4GWqw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_m66sPLGDEeuELJ2ce4GWqw" comments="_m63BorGDEeuELJ2ce4GWqw" targetConnectionVisual="_m63osLGDEeuELJ2ce4GWqw" name="validarGrupoClase">
+      <modelElement href="Practica3EMDiagramaDeClases.uml#_Y05MgLGDEeuELJ2ce4GWqw"/>
+      <visibility xmi:id="_m66sPbGDEeuELJ2ce4GWqw" label="+"/>
+      <cardinality xmi:id="_m66sPrGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_m66sP7GDEeuELJ2ce4GWqw" name="dataAccessObject">
+        <modelElement href="Practica3EMDiagramaDeClases.uml#_Y05MgbGDEeuELJ2ce4GWqw"/>
+        <cardinality xmi:id="_m66sQLGDEeuELJ2ce4GWqw" label="1" max="1" min="1"/>
+        <type xmi:id="_m66sQbGDEeuELJ2ce4GWqw" name="DataAccessObject">
           <modelElement href="Practica3EMDiagramaDeClases.uml#_Ye35MLGDEeuELJ2ce4GWqw"/>
         </type>
       </parameters>
